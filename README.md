@@ -16,7 +16,7 @@ Outil de scan réseau développé en Python permettant de détecter les machines
 ## Installation
 1. Cloner le projet dans vos documents
 ```bash
-git clone
+git clone https://github.com/ton-username/network_scanner.git
 cd network_scanner
 ```
 2. Installer les dépendances
