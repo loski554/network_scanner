@@ -1,0 +1,23 @@
+=== NETWORK SCANNER ===
+Date du scan : 2026-04-01 17:16:46
+Réseau : 192.168.1.0/24
+
+[+] 192.168.1.17 : desktop.home
+
+[+] 192.168.1.30 : iphone-5.home
+
+[+] 192.168.1.10 : samsung-washer.home
+
+[+] 192.168.1.11 : iphone-1.home
+
+[+] 192.168.1.1 : livebox.home
+    - Port 53 (DNS) ouvert
+    - Port 80 (HTTP) ouvert
+    - Port 443 (HTTPS) ouvert
+
+[+] 192.168.1.18 : repeteurwifi6-9ef0.home
+    - Port 80 (HTTP) ouvert
+    - Port 443 (HTTPS) ouvert
+
+
+Scan terminé.

@@ -1,0 +1,5 @@
+2026-04-02 00:50:38 - 192.168.1.27 actif - ports: []
+2026-04-02 00:50:39 - 192.168.1.26 actif - ports: [{'port': 53, 'service': 'DNS', 'banner': None}, {'port': 80, 'service': 'HTTP', 'banner': 'HTTP/1.1 200 OK (lighttpd/1.4.28-devel-3101M)'}]
+2026-04-02 00:50:41 - 192.168.1.1 actif - ports: [{'port': 53, 'service': 'DNS', 'banner': None}, {'port': 80, 'service': 'HTTP', 'banner': 'HTTP/1.1 401 Unauthorized (micro_httpd)'}, {'port': 443, 'service': 'HTTPS', 'banner': None}]
+2026-04-02 00:50:44 - 192.168.1.159 actif - ports: []
+2026-04-02 00:50:46 - 192.168.1.32 actif - ports: []
