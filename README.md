@@ -43,7 +43,17 @@ python scanner.py -o resultats.json
 - Manipulation réseau (IP, CIDR)
 
 ## Objectif
-*todo*
+Comprendre le fonctionnement d'un réseau (TCP/IP)
+Manipuler les sockets en python
+Mettre en place un outil structuré et automatisé
+
+## Limites/Améliorations possibles
+- Certaines machines ne répondent pas au ping
+- Certaines bannières peuvent être absentes
+
+- Détection du système d’exploitation
+- Interface graphique
+- Barre de progression
 
 ## ✍️ Auteur
 Projet réalisé par **Lucas Goulain/loski554**
